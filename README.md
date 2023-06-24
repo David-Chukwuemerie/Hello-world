@@ -1,2 +1,3 @@
 # Hello-world
-Git Codeversioning Github
+Git, Code versioning, Github.
+Hi, I'm Rex David, I am new to this space. Super excited to learn more...
